@@ -1,0 +1,1 @@
+Throughout this course, I have gained valuable insights into using GitHub for version control, project collaboration, and efficient code management. Learning shell scripting and exploring foundational software development practices has deepened my interest in technology and strengthened my confidence as I continue my journey toward becoming a proficient developer.
